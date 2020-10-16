@@ -1,2 +1,2 @@
-# Extension Exampley
+# Extension Example
 

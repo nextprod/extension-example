@@ -1,0 +1,2 @@
+runs:
+  image: Dockerfile
